@@ -1,4 +1,4 @@
-# Module_18_Challenge
+# Blockchain ledger system
 This user-friendly web interface allows users to securely store transactions using a blockchain-based ledger system.
 
 
